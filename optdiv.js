@@ -25,10 +25,8 @@ var optimalDivision = function(nums) {
 
 
 /*
-
 Success
 Details 
 Runtime: 72 ms, faster than 100.00% of JavaScript online submissions for Optimal Division.
 Memory Usage: 39 MB, less than 50.00% of JavaScript online submissions for Optimal Division.
-
-/*
+*/
