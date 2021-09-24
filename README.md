@@ -1,5 +1,5 @@
 # Optimal-Division
-Faster than 100% - my clean 5 line solution
+Faster than 100% - my  5 line solution for the Leetcode challenge: 
 
 
 "You are given an integer array nums. The adjacent integers in nums will perform the float division.
